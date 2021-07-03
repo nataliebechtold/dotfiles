@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = natalie.bechtold@gmail.com
+	name = Natalie Bechtold
